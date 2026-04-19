@@ -1,0 +1,514 @@
+{
+    "cheri": {
+        "growth_time": 3,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 20,
+        "smoothness": 25,
+        "soil_dryness": 15
+    },
+    "chesto": {
+        "growth_time": 3,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 80,
+        "smoothness": 25,
+        "soil_dryness": 15
+    },
+    "pecha": {
+        "growth_time": 3,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 40,
+        "smoothness": 25,
+        "soil_dryness": 15
+    },
+    "rawst": {
+        "growth_time": 3,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 32,
+        "smoothness": 25,
+        "soil_dryness": 15
+    },
+    "aspear": {
+        "growth_time": 3,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 50,
+        "smoothness": 25,
+        "soil_dryness": 15
+    },
+    "leppa": {
+        "growth_time": 4,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 28,
+        "smoothness": 20,
+        "soil_dryness": 15
+    },
+    "oran": {
+        "growth_time": 4,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 35,
+        "smoothness": 20,
+        "soil_dryness": 15
+    },
+    "persim": {
+        "growth_time": 4,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 47,
+        "smoothness": 20,
+        "soil_dryness": 15
+    },
+    "lum": {
+        "growth_time": 12,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 34,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "sitrus": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 95,
+        "smoothness": 20,
+        "soil_dryness": 7
+    },
+    "figy": {
+        "growth_time": 5,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 100,
+        "smoothness": 25,
+        "soil_dryness": 10
+    },
+    "wiki": {
+        "growth_time": 5,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 115,
+        "smoothness": 25,
+        "soil_dryness": 10
+    },
+    "mago": {
+        "growth_time": 5,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 126,
+        "smoothness": 25,
+        "soil_dryness": 10
+    },
+    "aguav": {
+        "growth_time": 5,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 64,
+        "smoothness": 25,
+        "soil_dryness": 10
+    },
+    "iapapa": {
+        "growth_time": 5,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 223,
+        "smoothness": 25,
+        "soil_dryness": 10
+    },
+    "razz": {
+        "growth_time": 2,
+        "max_harvest": 10,
+        "natural_gift_power": 60,
+        "size": 120,
+        "smoothness": 20,
+        "soil_dryness": 35
+    },
+    "bluk": {
+        "growth_time": 2,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 108,
+        "smoothness": 20,
+        "soil_dryness": 35
+    },
+    "nanab": {
+        "growth_time": 2,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 77,
+        "smoothness": 20,
+        "soil_dryness": 35
+    },
+    "wepear": {
+        "growth_time": 2,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 74,
+        "smoothness": 20,
+        "soil_dryness": 35
+    },
+    "pinap": {
+        "growth_time": 2,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 80,
+        "smoothness": 20,
+        "soil_dryness": 35
+    },
+    "pomeg": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 135,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "kelpsy": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 150,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "qualot": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 110,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "hondew": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 162,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "grepa": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 149,
+        "smoothness": 20,
+        "soil_dryness": 8
+    },
+    "tamato": {
+        "growth_time": 8,
+        "max_harvest": 5,
+        "natural_gift_power": 70,
+        "size": 200,
+        "smoothness": 30,
+        "soil_dryness": 8
+    },
+    "cornn": {
+        "growth_time": 6,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 75,
+        "smoothness": 30,
+        "soil_dryness": 10
+    },
+    "magost": {
+        "growth_time": 6,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 140,
+        "smoothness": 30,
+        "soil_dryness": 10
+    },
+    "rabuta": {
+        "growth_time": 6,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 226,
+        "smoothness": 30,
+        "soil_dryness": 10
+    },
+    "nomel": {
+        "growth_time": 6,
+        "max_harvest": 10,
+        "natural_gift_power": 70,
+        "size": 285,
+        "smoothness": 30,
+        "soil_dryness": 10
+    },
+    "spelon": {
+        "growth_time": 15,
+        "max_harvest": 15,
+        "natural_gift_power": 70,
+        "size": 133,
+        "smoothness": 35,
+        "soil_dryness": 8
+    },
+    "pamtre": {
+        "growth_time": 15,
+        "max_harvest": 15,
+        "natural_gift_power": 70,
+        "size": 244,
+        "smoothness": 35,
+        "soil_dryness": 8
+    },
+    "watmel": {
+        "growth_time": 15,
+        "max_harvest": 15,
+        "natural_gift_power": 80,
+        "size": 250,
+        "smoothness": 35,
+        "soil_dryness": 8
+    },
+    "durin": {
+        "growth_time": 15,
+        "max_harvest": 15,
+        "natural_gift_power": 80,
+        "size": 280,
+        "smoothness": 35,
+        "soil_dryness": 8
+    },
+    "belue": {
+        "growth_time": 15,
+        "max_harvest": 15,
+        "natural_gift_power": 80,
+        "size": 300,
+        "smoothness": 35,
+        "soil_dryness": 8
+    },
+    "occa": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 90,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "passho": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 33,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "wacan": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 250,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "rindo": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 156,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "yache": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 135,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "chople": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 77,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "kebia": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 90,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "shuca": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 42,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "coba": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 278,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "payapa": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 252,
+        "smoothness": 30,
+        "soil_dryness": 6
+    },
+    "tanga": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 42,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "charti": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 28,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "kasib": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 144,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "haban": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 23,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "colbur": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 39,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "babiri": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 265,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "chilan": {
+        "growth_time": 18,
+        "max_harvest": 5,
+        "natural_gift_power": 60,
+        "size": 34,
+        "smoothness": 35,
+        "soil_dryness": 6
+    },
+    "liechi": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 111,
+        "smoothness": 40,
+        "soil_dryness": 4
+    },
+    "ganlon": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 33,
+        "smoothness": 40,
+        "soil_dryness": 4
+    },
+    "salac": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 95,
+        "smoothness": 40,
+        "soil_dryness": 4
+    },
+    "petaya": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 237,
+        "smoothness": 40,
+        "soil_dryness": 4
+    },
+    "apicot": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 75,
+        "smoothness": 40,
+        "soil_dryness": 4
+    },
+    "lansat": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 97,
+        "smoothness": 50,
+        "soil_dryness": 4
+    },
+    "starf": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 153,
+        "smoothness": 50,
+        "soil_dryness": 4
+    },
+    "enigma": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 155,
+        "smoothness": 60,
+        "soil_dryness": 7
+    },
+    "micle": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 41,
+        "smoothness": 60,
+        "soil_dryness": 7
+    },
+    "custap": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 267,
+        "smoothness": 60,
+        "soil_dryness": 7
+    },
+    "jaboca": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 33,
+        "smoothness": 60,
+        "soil_dryness": 7
+    },
+    "rowap": {
+        "growth_time": 24,
+        "max_harvest": 5,
+        "natural_gift_power": 80,
+        "size": 52,
+        "smoothness": 60,
+        "soil_dryness": 7
+    }
+}
